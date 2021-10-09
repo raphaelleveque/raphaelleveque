@@ -24,7 +24,7 @@ Hi, my name is Raphael Leveque and I'm a Computer Science student at University 
 
 
 ## Non-Technical skills, but still very important
-- I know three languages very well: Portuguese 🇧🇷, French 🇫🇷 and English 🇺🇸. I also know a little bit of Spanish 🇪🇸
+- I know three languages very well: Portuguese 🇧🇷 , French 🇫🇷 and English 🇺🇸 . I also know a little bit of Spanish 🇪🇸
 - I can play the guitar 🎸
 - I'm always seeking the best i can get
 
