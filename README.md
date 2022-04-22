@@ -2,8 +2,8 @@
 Hi, my name is Raphael Leveque and I'm a Computer Science student at University of São Paulo (USP), in Brazil
 
 ## Technical skills
-- Currently studying C and C++, with a basic knowledge of Python
-- I know HTML and CSS, working to improve my JS skills
+- Currently studying C, C++, Java and Python for my university courses
+- Also studying HTML, CSS and Javascript for outside projects
 - Good experience with the most popular Operating Systems: Windows, MacOS and Linux(Ubuntu)
 - I'm very comfortable using Unix commands
 - I really like Logical Thinking challenges, especially in competitive programming
