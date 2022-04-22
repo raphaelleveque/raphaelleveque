@@ -25,7 +25,3 @@ Hi, my name is Raphael Leveque and I'm a Computer Science student at University 
 
 ## Non-Technical skills, but still very important
 - I know three languages very well: Portuguese 🇧🇷 , French 🇫🇷  and English 🇺🇸 . I also know a little bit of Spanish 🇪🇸
-
-
-<br><br>
-Note: most of my repositories are private due to my university's policies, but I will create more public repositories as soon as possible
