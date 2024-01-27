@@ -1,15 +1,17 @@
 # Raphael Leveque
 Hi, my name is Raphael Leveque and I'm a Computer Science student at University of São Paulo (USP), in Brazil
 
-## Technical skills
-- Currently studying C, C++, Java and Python for my university courses
-- Also studying HTML, CSS and Javascript for outside projects
-- Good experience with the most popular Operating Systems: Windows, MacOS and Linux(Ubuntu)
-- I'm very comfortable using Unix commands
-- I really like Logical Thinking challenges, especially in competitive programming
+## Professional Experience
+
+- Two internship experiences.
+- Worked extensively with **REST APIs** using *C#* and *Java*.
+- Engaged in Android development using *Java*.
+- Familiar with **Azure DevOps** for project management and collaboration.
 
 <div style="display: inline_block">
-  
+
+  <img align="center" alt="Rapha-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rapha-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Rapha-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Rapha-Cpp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Rapha-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
