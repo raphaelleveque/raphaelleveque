@@ -3,7 +3,7 @@ Hi, my name is Raphael Leveque and I'm a Computer Science student at University 
 
 ## Professional Experience
 
-- 1+ years of experience.
+- 2+ years of experience.
 - Worked extensively with **REST APIs** using *C#* and *Java*.
 - Engaged in Android development using *Java*.
 - Familiar with **Azure DevOps** for project management and collaboration.
